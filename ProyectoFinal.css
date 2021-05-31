@@ -1,0 +1,41 @@
+.Principal{
+	background-color:#C34621;
+}
+.titulo{
+	text-align: center;
+	color:white;
+}
+p{
+	font-size: 20px;
+	color: white;
+}
+.imagen{
+	text-align: center;
+}
+
+#Page1{
+	background-color: #A75534;
+}
+.parrafo{
+	color: white;
+}
+#titulo1{
+	color: #D6C03F;
+	text-align: center;
+}
+
+#page2{
+	background-color: darkcyan;
+}
+#titulo2{
+	color: #500A7D;
+	text-align: center;
+}
+
+#page3{
+	background-color: #790917;
+}
+#titulo3{
+	color: skyblue;
+	text-align: center;
+}
